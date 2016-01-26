@@ -1,1 +1,1 @@
-![Web Map] (Users/MVerthein/DBC/Phase-0/week-2/imgs/webmap.PNG "WebMap")
+![Web Map] (/week-2/imgs/webmap.PNG "WebMap")
