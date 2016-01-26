@@ -1,1 +1,1 @@
-![Web Map] (/week-2/imgs/webmap.PNG "WebMap")
+![Web Map] (/week-2/imgs/webmap.png "WebMap")
