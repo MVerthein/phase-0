@@ -1,4 +1,5 @@
 ![Challenge 1](phase-0/week-3/chrome-devtools/imgs/Challenge 1.png)
+<<<<<<< HEAD
 ![Challenge 2](phase-0/week-3/chrome-devtools/imgs/Challenge 2.png)
 ![Challenge 3](phase-0/week-3/chrome-devtools/imgs/Challenge 3.png)
 ![Challenge 4](phase-0/week-3/chrome-devtools/imgs/Challenge 4.png)
@@ -7,6 +8,16 @@
 ![Challenge 7](phase-0/week-3/chrome-devtools/imgs/Challenge 7.png)
 ![Challenge 8](phase-0/week-3/chrome-devtools/imgs/Challenge 8.png)
 ![Challenge 9](phase-0/week-3/chrome-devtools/imgs/Challenge 9.png)
+=======
+![Challenge 2](/imgs/Challenge 2.png)
+![Challenge 3](/imgs/Challenge 3.png)
+![Challenge 4](/imgs/Challenge 4.png)
+![Challenge 5](/imgs/Challenge 5.png)
+![Challenge 6](/imgs/Challenge 6.png)
+![Challenge 7](/imgs/Challenge 7.png)
+![Challenge 8](/imgs/Challenge 8.png)
+![Challenge 9](/imgs/Challenge 9.png)
+>>>>>>> master
 
 ###How can you use Chrome's DevTools inspector to help you format or position elements?
 *I will personally want to be Chrome's DevTools to help format and and position elements on the fly, being able to see change immediately, and adjust as you need.
