@@ -1,4 +1,4 @@
-![Challenge 1](https://github.com/MVerthein/phase-0/blob/master/week-3/chrome-devtools/imgs/Challenge%201.png)
+![Challenge 1](phase-0/week-3/chrome-devtools/imgs/Challenge 1.png)
 ![Challenge 2](/imgs/Challenge 2.png)
 ![Challenge 3](/imgs/Challenge 3.png)
 ![Challenge 4](/imgs/Challenge 4.png)
