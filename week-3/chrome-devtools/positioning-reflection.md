@@ -1,12 +1,12 @@
-![Challenge 1](phase-0/week-3/chrome-devtools/imgs/Challenge 1.png)
-![Challenge 2](phase-0/week-3/chrome-devtools/imgs/Challenge 2.png)
-![Challenge 3](phase-0/week-3/chrome-devtools/imgs/Challenge 3.png)
-![Challenge 4](phase-0/week-3/chrome-devtools/imgs/Challenge 4.png)
-![Challenge 5](phase-0/week-3/chrome-devtools/imgs/Challenge 5.png)
-![Challenge 6](phase-0/week-3/chrome-devtools/imgs/Challenge 6.png)
-![Challenge 7](phase-0/week-3/chrome-devtools/imgs/Challenge 7.png)
-![Challenge 8](phase-0/week-3/chrome-devtools/imgs/Challenge 8.png)
-![Challenge 9](phase-0/week-3/chrome-devtools/imgs/Challenge 9.png)
+![Challenge 1](https://github.com/MVerthein/phase-0/blob/master/week-3/chrome-devtools/imgs/Challenge%201.png)
+![Challenge 2](https://github.com/MVerthein/phase-0/blob/master/week-3/chrome-devtools/imgs/Challenge%202.png)
+![Challenge 3](https://github.com/MVerthein/phase-0/blob/master/week-3/chrome-devtools/imgs/Challenge%203.png)
+![Challenge 4](https://github.com/MVerthein/phase-0/blob/master/week-3/chrome-devtools/imgs/Challenge%204.png)
+![Challenge 5](https://github.com/MVerthein/phase-0/blob/master/week-3/chrome-devtools/imgs/Challenge%205.png)
+![Challenge 6](https://github.com/MVerthein/phase-0/blob/master/week-3/chrome-devtools/imgs/Challenge%206.png)
+![Challenge 7](https://github.com/MVerthein/phase-0/blob/master/week-3/chrome-devtools/imgs/Challenge%207.png)
+![Challenge 8](https://github.com/MVerthein/phase-0/blob/master/week-3/chrome-devtools/imgs/Challenge%208.png)
+![Challenge 9](https://github.com/MVerthein/phase-0/blob/master/week-3/chrome-devtools/imgs/Challenge%209.png)
 
 
 ###How can you use Chrome's DevTools inspector to help you format or position elements?
