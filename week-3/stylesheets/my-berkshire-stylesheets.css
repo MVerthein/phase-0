@@ -13,20 +13,104 @@ html {
 }
 .left {
   float: left;
+  display: inline-block;
 }
 .right {
   float: right;
+  display: inline-block;
 }
+
 ul {
   font-size: 12px;
+
 }
 
 header {
   text-decoration: bold;
-  font-size: 25px;
+  font-size: 20px;
   text-align: center;
 }
 
-li {
-  margin: 10px
+header::first-letter {
+  font-size: 200%;
 }
+
+#H {
+  font-size: 200%;
+  display: inline;
+}
+
+#address1 {
+  display: block;
+  margin-top: -10px;
+  font-size: 16px;
+}
+
+#address2 {
+  display: block;
+  margin-top: -20px;
+  font-size: 16px;
+}
+
+#address3 {
+  display: block;
+  margin-top: -20px;
+  font-size: 20px;
+}
+
+#B {
+  font-size: 30px;
+}
+
+#geico {
+  display: block;
+  clear: both;
+  padding: 15px;
+  text-align: center;
+  border-top: 1px solid gray;
+  font-size: 10px;
+}
+
+#geico p {
+  font-size: 10px;
+  margin: -3px;
+}
+
+#fineprint {
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+  display: block;
+  padding: 15px;
+  font-size: 12px;
+  margin-left: -10px
+
+}
+
+footer a{
+  display: block;
+  padding: 15px;
+  margin-left: -10px;
+}
+
+footer p {
+  display: inline;
+  font-size: 8px;
+  margin-bottom: 12px;
+}
+img {
+  display: block;
+  margin: auto;
+}
+
+/*
+What is important to know when linking an external file(like a stylesheet) to an HTML file?
+  - Mainly it is important to get the correct file path in the href part of the link, along with ensureing you state the rel and type. If the path to the stylesheet is incorrect then the changes made in CSS will not properly link to the HTML file you are working on.
+What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+  - When it comes to positioning, I have still having a hard time figuring out which position to use properly, so it is still sort of a guessing game, but I am starting to get a better hang of positioning. It was very difficult getting the website as I wanted, a work in progress.
+What CSS did you use to modify the element style?
+  - To modify the element style I used color, font-size by px, and used border-top and border-bottom to make the horizontal line breaks on the page.
+Did you modify the HTML to include classes or ids? Of so, Which did you choose and why?
+  -I did modify my HTML page quite a bit, adding both class and id tags to the original page, made class tags for the links and help make 2 columns and id takes for individual elements such as header or footer changes.
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+  - So looking at the actual site it appears that all font changes and links are done inline with HTML, and while the a simple site it looks clean, being able to edit complete elements in css seem like a better option, however my skills need refinement to make my own code cleaner.
+*/
