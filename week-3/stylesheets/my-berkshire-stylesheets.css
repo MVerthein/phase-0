@@ -1,0 +1,32 @@
+body {
+  color: #000080;
+}
+a:visited {
+  color: #ff0000;
+}
+a {
+  color: #800080;
+  font-size: 16px;
+}
+html {
+  background-color: #ffffff;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+ul {
+  font-size: 12px;
+}
+
+header {
+  text-decoration: bold;
+  font-size: 25px;
+  text-align: center;
+}
+
+li {
+  margin: 10px
+}
