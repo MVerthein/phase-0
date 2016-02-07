@@ -31,13 +31,8 @@ header {
   text-align: center;
 }
 
-header::first-letter {
-  font-size: 200%;
-}
-
-#H {
-  font-size: 200%;
-  display: inline;
+span {
+  font-size: 2em;
 }
 
 #address1 {
@@ -56,10 +51,6 @@ header::first-letter {
   display: block;
   margin-top: -20px;
   font-size: 20px;
-}
-
-#B {
-  font-size: 30px;
 }
 
 #geico {
