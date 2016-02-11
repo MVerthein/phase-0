@@ -1,12 +1,21 @@
 # Define a Hash
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge [by myself].
 
 
 # Your Solution Below
 
 # my_info is empty to start.  Edit this!
-my_info = {}
+my_info = {
+  first_name: "Mike",
+  last_name: "Verthein",
+  hometown: "Brookfield, WI",
+  age: 28,
+}
+
+my_info.each do |k, v|
+  puts v
+end
 
 
 
