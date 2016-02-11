@@ -1,0 +1,43 @@
+body {
+  background-color: #ade6e6;
+}
+
+p {
+  font-family:'Open Sans', sans-serif;
+}
+
+header {
+  text-align: center;
+}
+.container {
+  width: 100%;
+  margin: 0 auto;
+  left: 25%;
+
+}
+
+
+/*8-100/2=46 for width (chromes default padding)*/
+.column-1 {
+  width: 46%;
+  float: left;
+  position: relative;
+
+}
+
+
+.column-2 {
+  width: 46%;
+  float: right;
+  position: relative;
+
+}
+
+
+footer {
+  clear: both;
+  bottom: 0;
+  width: 100%;
+  position: relative;
+  margin-top: 5%;
+}
