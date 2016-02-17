@@ -65,15 +65,23 @@ p separate_comma(1000)
 =end
 # 2. Refactored Solution
 def separate_comma(num)
+  if num < 1000
+    return num.to_s
+  else
   ary = num.to_s.chars.reverse
   ary[3..-1].each_with_index do |x, index|
     if index % 3 == 0
       x << ","
+    end
+    end
+    ary.reverse.join
   end
-  end
-  ary.reverse.join
+
 end
-p separate_comma(12000000000)
+p separate_comma(120)
+p separate_comma(20)
+p separate_comma(1500)
+p separate_comma(19285823485623948235792385)
 # 3. Reflection
 =begin
 What was your process for breaking the problem down? What different approaches did you consider?
