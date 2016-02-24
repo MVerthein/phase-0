@@ -6,10 +6,15 @@
 
 # Pseudocode
 
-# Input:
-# Output:
+# Input: Instance variable with my name
+# Output: A greeting with my name included
 # Steps:
-
+# CLASS of name name data
+  # VAR with my name as name variable
+# CLASS for greeting information
+  # VAR for new namedata
+# DEF for actual greeting
+  # message with namedata.
 class NameData
   attr_reader :name
   def initialize
