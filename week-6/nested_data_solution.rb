@@ -53,20 +53,25 @@ puts number_array
 
 startup_names = ["bit", ["find", "fast", ["optimize", "scope"]]]
 
-startup_names.each do |name|
-  if name.kind_of?(Array)
-    name.each do|inner|
-      if inner.kind_of?(Array)
-        inner.each {|inner2| p inner2 + "ly"}
-      elsif inner.kind_of?(String)
-        p inner + "ly"
-      end
-    end
-  elsif name.kind_of?(String)
-    p name + "ly"
-  end
-end
+# startup_names.each do |name|
+#   if name.kind_of?(Array)
+#     name.each do|inner|
+#       if inner.kind_of?(Array)
+#         inner.each {|inner2| p inner2 + "ly"}
+#       elsif inner.kind_of?(String)
+#         p inner + "ly"
+#       end
+#     end
+#   elsif name.kind_of?(String)
+#     p name + "ly"
+#   end
+# end
 
+startup_names.flatten!
+startup_names.collect! do |x|
+    x + "ly"
+end
+puts startup_names
 =begin
 REFLECTION
 
