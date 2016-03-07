@@ -1,6 +1,6 @@
 ##Screenshots:
 ![one-to-one](./imgs/one-to-one.png)
-![many-to-many](.imgs/many-to-many.png)
+![many-to-many](./imgs/many-to-many.png)
 
 ##Reflection
 <br><br>
