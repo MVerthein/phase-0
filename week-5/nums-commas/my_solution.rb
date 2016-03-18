@@ -78,10 +78,10 @@ def separate_comma(num)
   end
 
 end
-p separate_comma(120)
-p separate_comma(20)
-p separate_comma(1500)
-p separate_comma(19285823485623948235792385)
+# p separate_comma(120)
+# p separate_comma(20)
+# p separate_comma(1500)
+# p separate_comma(19285823485623948235792385)
 # 3. Reflection
 =begin
 What was your process for breaking the problem down? What different approaches did you consider?
